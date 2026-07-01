@@ -1,7 +1,3 @@
-# Claude Spec-Kit
-
-A structured specification-driven development toolkit designed to guide projects from ideation to implementation through a standardized workflow.
-
 This repository contains a collection of specification templates, planning artifacts, analysis frameworks, and implementation guidance documents that help teams define, validate, plan, and execute technical solutions in a consistent and organized manner.
 
 ---
