@@ -1,7 +1,4 @@
-# spec-kit
-Claude Spec Kit
-
-# Spec-Kit
+# Claude Spec-Kit
 
 A structured specification-driven development toolkit designed to guide projects from ideation to implementation through a standardized workflow.
 
@@ -75,14 +72,12 @@ This workflow helps ensure that requirements are properly defined, reviewed, pla
 
 This repository can be used for:
 
-- Solution Engineering
 - Cloud Operations Projects
-- Infrastructure Modernization Initiatives
+- Monitoring and Event Management
 - Automation Projects
 - Platform Engineering
-- DevOps Programs
+- DevOps 
 - IT Service Improvements
-- Product Development Lifecycle Management
 - AI-Assisted Development Workflows
 
 ---
@@ -106,18 +101,9 @@ MEM-NOC Cloud Operations
 ---
 
 ## License
-
-This repository is intended for learning, collaboration, project planning, and solution development purposes.
-
-Please comply with your organization's governance, security, and compliance requirements when reusing or modifying repository content.
+MIT Licence
 
 ---
-
-## Contributions
-
-Contributions, enhancements, and improvements are welcome through standard GitHub workflows, including pull requests, reviews, and issue tracking.
-
-
 
 Author - Snehashis Das
 Designation Cloud Specialist II
